@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\DotNetCoreTestingProject\Customer.Api.IntegrationTest\obj\Debug\net6.0\Customer.Api.IntegrationTest.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\DotNetCoreTestingProject\Customer.Api.IntegrationTest\obj\Debug\net6.0\Customer.Api.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\DotNetCoreTestingProject\Customer.Api.IntegrationTest\obj\Debug\net6.0\Customer.Api.IntegrationTest.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DotNetCoreTestingProject\Customer.Api.IntegrationTest\obj\Debug\net6.0\Customer.Api.IntegrationTest.AssemblyInfo.cs
+C:\Users\User\source\repos\DotNetCoreTestingProject\Customer.Api.IntegrationTest\obj\Debug\net6.0\Customer.Api.IntegrationTest.csproj.CoreCompileInputs.cache
